@@ -1,0 +1,64 @@
+.navbar{
+display: flex;
+justify-content: space-between;
+list-style: none;
+margin-left: 40%;
+}
+.logo{
+    width: 2%;
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.intro{
+    background-color: yellow;
+    color: black;
+    width: 50%;
+    text-align: center;
+}
+.wedding{
+    display: grid;
+    justify-content: space-between;
+    padding: 20px;
+    margin: 20%
+}
+.cak{
+    width: 50%;
+
+}
+.wedd{
+
+    width: 30%;
+}
+.wed2{
+     width: 30%;
+}
+.kek{
+    width: 30%;
+}
+.local{
+    display: flex;
+    justify-content: space-between;
+}
+.menu {
+    text-align:center ;
+}
+.design{
+text-align: center;
+}
+.wed{
+    text-align: center;
+    /* margin-bottom: 20px; */
+    padding-left:10% ;
+    justify-content: space-between;
+}
+.wedding{
+    display: flex;
+    justify-content: space-between;
+}
+.culture{
+    display: flex;
+    justify-content: space-between;   
+}
