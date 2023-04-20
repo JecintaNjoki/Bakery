@@ -51,7 +51,7 @@ text-align: center;
 .wed{
     text-align: center;
     /* margin-bottom: 20px; */
-    padding-left:10% ;
+    /* padding-left:10% ; */
     justify-content: space-between;
 }
 .wedding{
@@ -60,5 +60,35 @@ text-align: center;
 }
 .culture{
     display: flex;
-    justify-content: space-between;   
+    justify-content: space-between;
+    background-color:cornflowerblue;   
+}
+.bday{
+    display: flex;
+    justify-content: space-between;
+}
+.bcake{
+    text-align: center;
+    display: flex;
+}
+.cul{
+    width: 30%;
+}
+.trad{
+    width:30%;
+}
+.culc{
+    width: 20%;
+}
+.culk{
+    width: 20%;
+}
+.sofia{
+    width:30%;
+}
+.elsa{
+    width:30%;
+}
+.kek{
+    width:30%;
 }
